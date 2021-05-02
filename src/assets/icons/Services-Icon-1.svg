@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Services Icon 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.000298666667 0.159148936 63.8404267 0.159148936 63.8404267 49.5287234 0.000298666667 49.5287234"></polygon>
+        <polygon id="path-3" points="0 59.8408511 63.8404267 59.8408511 63.8404267 0.425531915 0 0.425531915"></polygon>
+    </defs>
+    <g id="Services-Icon-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11" transform="translate(11.000000, 12.000000)">
+            <g id="Group-3" transform="translate(0.000000, 0.266383)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M61.327232,0.15893617 L2.51293867,0.15893617 C1.13480533,0.15893617 0.000298666667,1.27085106 0.000298666667,2.66574468 L0.000298666667,39.8870213 L0.000298666667,47.0223404 C0.000298666667,48.396383 1.114752,49.5287234 2.51293867,49.5287234 L61.327232,49.5287234 C62.7053653,49.5287234 63.8407253,48.4168085 63.8407253,47.0223404 L63.8407253,39.8870213 L63.8407253,2.66574468 C63.8407253,1.27085106 62.7258453,0.15893617 61.327232,0.15893617" id="Fill-1" fill="#001536" mask="url(#mask-2)"></path>
+            </g>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Clip-5"></g>
+            <polygon id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)" points="5.58336 44.2165957 58.25664 44.2165957 58.25664 6.00425532 5.58336 6.00425532"></polygon>
+            <polygon id="Fill-6" fill="#001536" mask="url(#mask-4)" points="11.8865067 59.8408511 51.95392 59.8408511 51.95392 55.272766 11.8865067 55.272766"></polygon>
+            <polygon id="Fill-7" fill="#00A4EC" mask="url(#mask-4)" points="47.4647467 55.2728085 44.58688 49.7949362 19.2535467 49.7949362 16.37568 55.2728085"></polygon>
+            <polygon id="Fill-8" fill="#00A4EC" mask="url(#mask-4)" points="11.59808 25.9273191 11.59808 22.7388085 23.5447467 17.2341277 23.5447467 20.1205106 14.6269867 24.1481702 14.6269867 24.4166809 23.5447467 28.544766 23.5447467 31.4315745"></polygon>
+            <polygon id="Fill-9" fill="#BDC3C7" mask="url(#mask-4)" points="35.1805867 13.8777872 37.70432 13.8777872 26.73344 37.3390638 24.20928 37.3390638"></polygon>
+            <polygon id="Fill-10" fill="#00A4EC" mask="url(#mask-4)" points="52.2426453 22.7387234 52.2426453 25.927234 40.295552 31.3982979 40.295552 28.5114894 49.2137387 24.3829787 49.2137387 24.1144681 40.295552 20.087234 40.295552 17.2004255"></polygon>
+        </g>
+    </g>
+</svg>

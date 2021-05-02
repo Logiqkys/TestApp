@@ -1,0 +1,64 @@
+<div class="test">
+
+
+  <div class="container ms-logo-section" style="margin-bottom: 15vh; margin-top: 5vh">
+    <div class="align-items-center justify-content-center">
+      <div class="row">
+
+        <div class="col font-weight-normal small-text" style="text-align: center;">
+
+          <p class="header poppins-bold">
+            Inquiry
+          </p>
+          <br>
+
+          <form>
+            <mat-form-field style="width: 500px;">
+              <mat-select placeholder="To" [(ngModel)]="selectedValue1" name="food">
+                <mat-option *ngFor="let place of toPlace" [value]="place.id">
+                  {{place.clientName}}
+                </mat-option>
+              </mat-select>
+            </mat-form-field>
+
+            <br />
+
+            <mat-form-field style="width: 500px;">
+              <mat-select placeholder="From" [(ngModel)]="selectedValue2" name="food">
+                <mat-option *ngFor="let place of fromPlace" [value]="place.id">
+                  {{place.clientName}}
+                </mat-option>
+              </mat-select>
+            </mat-form-field>
+
+            <br />
+
+            <br />
+
+            <!-- hardcoded -->
+            <!-- <div class="card" style="width: 500px; margin-left: 27%">
+              <p> Travel Fee: {{selectedValue1 + selectedValue2}} </p>
+            </div> -->
+
+            <!-- bootstrap -->
+            <div class="row">
+              <div class="col"></div>
+              <div class="col">
+                <div class="card" style="width: 500px;">
+                  <p style="margin-top: 2%"> Travel Fee: {{selectedValue1 + selectedValue2}} </p>
+                </div>
+              </div>
+              <div class="col"></div>
+            </div>
+
+          </form>
+          <br>
+          <br>
+          <button type="button" class="btn poppins-bold btn-primary  btn-text">
+            Proceed to Payment
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

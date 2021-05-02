@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="34px" viewBox="0 0 45 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Quotes Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 18.3794403 0 18.3794403 32 0 32"></polygon>
+    </defs>
+    <g id="Quotes-Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9" transform="translate(22.538462, 17.000000) scale(-1, -1) translate(-22.538462, -17.000000) translate(1.000000, 1.000000)">
+            <g id="Group-23-Copy" transform="translate(-0.000000, 0.000000)">
+                <g id="Group-6">
+                    <g id="Group-3">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M18.3794403,14.08 L18.3794403,32 L-4.68864469e-05,32 L-4.68864469e-05,13.824 C-4.68864469e-05,1.536 11.8153377,0 11.8153377,0 L13.3907223,3.584 C13.3907223,3.584 8.13944029,4.352 7.08918388,8.448 C6.03892747,11.52 8.13944029,14.08 8.13944029,14.08 L18.3794403,14.08 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M42.0101626,14.08 L42.0101626,32 L23.6306755,32 L23.6306755,13.824 C23.6306755,1.536 35.4460601,0 35.4460601,0 L37.0214447,3.584 C37.0214447,3.584 31.7701626,4.352 30.7199062,8.448 C29.6696498,11.52 31.7701626,14.08 31.7701626,14.08 L42.0101626,14.08 Z" id="Fill-4" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

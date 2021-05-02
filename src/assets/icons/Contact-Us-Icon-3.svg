@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Address W Border</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.00012 13.0008656 0.00012 13.0008656 18 0 18"></polygon>
+    </defs>
+    <g id="Address-W-Border" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-Copy-7" fill="#001536" cx="21.5" cy="21.5" r="21.5"></circle>
+        <g id="Group-4-Copy" transform="translate(15.000000, 13.000000)">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M6.56110125,8.54682 C5.25275438,8.54682 4.188195,7.51452 4.188195,6.24582 C4.188195,4.97742 5.25275438,3.94452 6.56110125,3.94452 C7.86944813,3.94452 8.9340075,4.97742 8.9340075,6.24582 C8.9340075,7.51452 7.86944813,8.54682 6.56110125,8.54682 M11.0980856,1.84632 C9.87017625,0.65562 8.237295,0.00012 6.5010825,0.00012 C4.76425125,0.00012 3.13229813,0.65562 1.90438875,1.84632 C-0.367970625,4.04952 -0.65043,8.19462 1.29275438,10.70622 L6.5010825,18.00012 L11.7016763,10.71642 C13.652595,8.19462 13.3701356,4.04952 11.0980856,1.84632" id="Fill-1" fill="#00A4EC" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

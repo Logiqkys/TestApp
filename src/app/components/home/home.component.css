@@ -1,0 +1,155 @@
+/* @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900"); */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #f0f4f3;
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  margin-top: 2%;
+}
+
+.button {
+  border: 1px solid #fff !important;
+  border-radius: 20px;
+  color: #fff !important;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  background: #3aa7b1;
+  padding: 15px 60px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="text"] {
+  background: #f4f8f7;
+  border: none;
+  font-weight: 300;
+  margin: 5px;
+  padding: 10px;
+  width: 280px;
+}
+
+.dot-logo {
+  margin-top: 5%;
+  height: 130px;
+}
+
+.submit-btn {
+  border: none;
+  border-radius: 25px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 11px;
+  letter-spacing: 1px;
+  margin-top: 20px;
+  padding: 15px 50px;
+  text-transform: uppercase;
+}
+
+#login .submit-btn {
+  background: #3aa7b1;
+}
+
+#register .submit-btn {
+  background: #3aaf9f;
+}
+
+#container {
+  background: #ededed;
+  border-radius: 10px;
+  height: 550px;
+  margin: 5% auto;
+  overflow: hidden;
+  width: 1000px;
+}
+
+#login {
+  background: #fff;
+  float: left;
+  height: 100%;
+  position: relative;
+  width: 50%;
+  text-align: center;
+  top: -550px;
+  z-index: 1;
+}
+
+#register {
+  background: #fff;
+  float: right;
+  height: 100%;
+  position: relative;
+  width: 50%;
+  text-align: center;
+  top: -550px;
+  z-index: 1;
+}
+
+#register,
+#login h3 {
+  padding: 20% 0 25px;
+}
+
+#login h3,
+h2 {
+  color: #3aa7b1;
+}
+
+#register h1 {
+  color: #3aaf9f;
+}
+
+#login p,
+#register p {
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0.3px;
+  padding: 20px;
+}
+
+#forgot-pass {
+  cursor: pointer;
+  color: #000;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  padding: 3px;
+}
+
+#cover {
+  background: #3aa7b1;
+  color: #fff;
+  height: 550px;
+  margin: 0 0 0 50%;
+  position: relative;
+  text-align: center;
+  width: 50%;
+  z-index: 5;
+}
+
+#cover h1 {
+  padding-top: 10%;
+}
+
+#cover p {
+  font-weight: 300;
+  line-height: 22px;
+  padding: 30px 45px 40px;
+}
+
+#cover:target {
+  background: #3aaf9f;
+  margin: 0;
+}
+
+#cover:target .login-div {
+  width: 35%;
+}
